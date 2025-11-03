@@ -2,6 +2,8 @@
 
 attempt to avoid boilerplate
 
+testing capabilities of the free version...without giving it any code I care about
+
 1. Generate nextflow pipeline
 
 ```
